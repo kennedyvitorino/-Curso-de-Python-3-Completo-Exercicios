@@ -24,3 +24,7 @@ def metade(price):
     res = price / 2
     return res
 
+
+def potencia(price):
+    res = price ** 2
+    return res
