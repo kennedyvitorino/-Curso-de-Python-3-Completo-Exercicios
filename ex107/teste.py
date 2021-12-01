@@ -17,4 +17,3 @@ print(f"""{linha()}
   {valor:.2f} diminuido em 13% é R${moeda.diminuir(valor, 13):.2f}
   {valor:.2f} vezes ele mesmo é igual à R${moeda.potencia(valor):.2f}
 """)
-
